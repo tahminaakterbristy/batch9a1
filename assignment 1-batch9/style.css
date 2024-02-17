@@ -1,0 +1,168 @@
+*body{
+box-sizing: border-box ;
+}
+.first-part{
+    background-image: url('./images/Banner\ Image.png');
+    /* height: 1000px; */
+    /* width: 1400px; */
+    height: 100%;
+    background-repeat: no-repeat;
+    /* background-color: rgb(199, 182, 182); */
+}
+.new-year p{
+    color: white;
+    
+    padding-top: 160px;
+    padding-left: 550px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.new-year h1{
+    color: white;
+    
+    
+    padding-left: 500px;
+    font-size: 45px;
+    
+}
+.first-span{
+    padding-left: 40px;
+}
+/* .second-part{
+    /* justify-content: center; */
+    /* padding-left: 38%;
+*/ 
+.second-part h1{
+    font-size: 40px;
+    color: red;
+    padding-left: 40%;
+
+}
+.second-part p{
+    color: red;
+    padding-left: 38%;
+}
+.second-part h3{
+    font-size: 30px;
+    padding-left: 38%;
+}
+.second-part img{
+    height: 340px;
+    width: 550px;
+    padding-left: 30%;
+}
+.third-part{
+    background-image: url('./images/Vectorrr.png');
+    
+width: 1400px;
+height: 500px;
+margin-left: 3%;
+margin-right: 3%;
+background-repeat: no-repeat;
+
+}
+.third-part img{
+    padding-left: 65%;
+    height: 320px;
+    width: 280px;
+}
+.third-part h1{
+    font-size: 40px;
+    color: white;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.join-button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 20%;
+}
+.third-part p{
+    color: rgb(247, 237, 237);
+    padding-left: 10%;
+}
+.midnight{
+    background-color: rgb(24, 21, 21);
+    width: 1400px;
+height: 500px;
+opacity: 0.8;
+}
+.place{
+    background-color: rgb(247, 233, 235);
+    height: 400px;
+    width: 1400px;
+    margin-top: 8%;
+}
+.party-location{
+    text-align: center;
+    padding-top: 4%;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.party-location span{
+    color: red;
+}
+.place-button{
+    margin-left: 45%;
+    color: white;
+    background-color: red;
+    border: none;
+    height: 50px;
+    width: 140px;
+    border-radius: 5px;
+}
+.gift-content h4{
+    color: red;
+    font-size: 20px;
+
+}
+.gift-part h2{
+    font-size: 28px;
+}
+.gift-part{
+    margin-top: 5%;
+    
+}
+.gift-cards{
+    margin-top: 40px;
+    /* height: 400px; */
+    
+}
+.newsletter{
+    height: 400px;
+    width: 1400px;
+  
+    background-color: rgb(243, 232, 240);
+    margin-top: 60px;
+}
+.letter{
+    padding-left: 550px;
+    padding-top: 40px;
+}
+footer{
+    background-color: rgb(18, 12, 26);
+    color: white;
+    height: 400px;
+    
+}
+#adress2{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+hr{
+    color: rgb(29, 27, 27);
+    padding-left: 20px;
+}
+.icons{
+    padding-left: 120px;
+    padding-right: 40px;
+}
+#adress3{
+    padding-left: 40px;
+}
+#adress4{
+    padding-left: 800px;
+}
